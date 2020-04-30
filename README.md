@@ -5,7 +5,9 @@
 npm install
 ```
 ### Run Project
+```
 npm run dev
+```
 
 ### Compiles and hot-reloads for development
 ```
