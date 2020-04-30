@@ -4,6 +4,10 @@
 ```
 npm install
 ```
+### Run Project
+```
+npm run dev
+```
 
 ### Project Run
 ```
